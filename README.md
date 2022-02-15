@@ -1,2 +1,2 @@
 # pypip
-pypi를 이용해서 pypi 올리기
+pypi를 이용해서 p 올리기
