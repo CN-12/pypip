@@ -1,5 +1,6 @@
 # pypip
-pypi를 이용해서 p 올리기  
+pypi를 이용해서 자신이 만든 pip 올리기  
+일단 pypi 회원가입  
 pip install setuptools wheel  
 다 하고 나서  
 python setup.py sdist bdist_wheel  
